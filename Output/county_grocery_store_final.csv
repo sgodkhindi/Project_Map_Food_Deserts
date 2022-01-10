@@ -1,0 +1,47 @@
+County_ID,County_Name,County_Income,Poverty_Rate,County_Lat,County_Long,Store_Name,Store_Lat,Store_Long,Store_Address,Dist
+605,Baldwin County,"36,399.00",92.88,33.081466,-83.228206,Piggly Wiggly,32.8832748,-83.3332842,"123 South Main Street, Gordon",14.95941850291037
+605,Baldwin County,"36,399.00",92.88,33.081466,-83.228206,Ingles Market,33.00371,-83.54515289999999,"261 West Clinton Street, Gray",19.160489724027386
+605,Baldwin County,"36,399.00",92.88,33.081466,-83.228206,Piggly Wiggly,33.0717281,-83.22557390000001,"731 South Wayne Street, Milledgeville",0.6882307557801353
+605,Baldwin County,"36,399.00",92.88,33.081466,-83.228206,Food Depot,33.101961,-83.25137289999999,"1850 North Columbia Street, Milledgeville",1.9495838027941708
+631,Clayton County,"32,702.00",92.55,33.506014,-84.357362,Whole Foods Market,33.7752338,-84.3658288,"650 Ponce De Leon Avenue Northeast, Atlanta",18.561028411628943
+631,Clayton County,"32,702.00",92.55,33.506014,-84.357362,Trader Joe's,33.7796552,-84.36791029999999,"931 Monroe Drive Northeast, Atlanta",18.869139098576493
+631,Clayton County,"32,702.00",92.55,33.506014,-84.357362,Publix Super Market at The Plaza Midtown,33.7804802,-84.388809,"950 West Peachtree Street Northwest, Atlanta",19.00285772889684
+631,Clayton County,"32,702.00",92.55,33.506014,-84.357362,The Fresh Market,33.811965,-84.391409,"2099 Peachtree Road Northwest, Atlanta",21.17728961399411
+633,Cobb County,"63,214.00",39.14,33.962944,-84.544548,Whole Foods Market,33.7752338,-84.3658288,"650 Ponce De Leon Avenue Northeast, Atlanta",16.521371232628645
+633,Cobb County,"63,214.00",39.14,33.962944,-84.544548,Trader Joe's,33.7796552,-84.36791029999999,"931 Monroe Drive Northeast, Atlanta",16.208437774815113
+633,Cobb County,"63,214.00",39.14,33.962944,-84.544548,H Mart Duluth,33.9696541,-84.1430816,"Shopping Center, 2550 Pleasant Hill Road bldg 300, Park Village, Duluth",23.059990473701884
+633,Cobb County,"63,214.00",39.14,33.962944,-84.544548,Trader Joe's,33.9789052,-84.21997329999999,"5185 Peachtree Parkway Ste 101, Peachtree Corners",18.671059547622168
+634,Coffee County,"35,507.00",87.34,31.508705,-82.850724,Harveys Supermarket,31.51025,-82.86094,"901 West Ward Street, Douglas",0.6123298675754213
+634,Coffee County,"35,507.00",87.34,31.508705,-82.850724,Smith's Grocery,31.6261982,-82.8870683,"305 South Railroad Street N, Broxton",8.374042560326105
+635,Colquitt County,"37,418.00",86.21,31.190741,-83.789843,Piggly Wiggly,31.1230749,-84.15298059999999,"303 West Railroad Street South, Pelham",22.013756227941062
+635,Colquitt County,"37,418.00",86.21,31.190741,-83.789843,Piggly Wiggly,31.3197803,-83.91640389999999,"140 East Broad Avenue, Doerun",11.624961058145844
+635,Colquitt County,"37,418.00",86.21,31.190741,-83.789843,Save A Lot,31.17742840000001,-83.7812297,"205 6th Street Southeast, Moultrie",1.0494848951194076
+635,Colquitt County,"37,418.00",86.21,31.190741,-83.789843,Publix Super Market Plaza at Tifton,31.4627627,-83.52869489999999,"620 Virginia Avenue North, Tifton",24.28468089825491
+644,DeKalb County,"56,428.00",68.56,33.77435,-84.297124,Whole Foods Market,33.7752338,-84.3658288,"650 Ponce De Leon Avenue Northeast, Atlanta",3.954861446910248
+644,DeKalb County,"56,428.00",68.56,33.77435,-84.297124,Trader Joe's,33.7796552,-84.36791029999999,"931 Monroe Drive Northeast, Atlanta",4.090465998494945
+644,DeKalb County,"56,428.00",68.56,33.77435,-84.297124,H Mart Duluth,33.9696541,-84.1430816,"Shopping Center, 2550 Pleasant Hill Road bldg 300, Park Village, Duluth",16.1128662565068
+644,DeKalb County,"56,428.00",68.56,33.77435,-84.297124,Trader Joe's,33.9789052,-84.21997329999999,"5185 Peachtree Parkway Ste 101, Peachtree Corners",14.779655593666522
+650,Echols County,"31,945.00",91.26,30.70335,-83.027601,Winn-Dixie,30.2820205,-83.0010528,"911 Pinewood Drive Southwest, Live Oak",29.06674695032003
+650,Echols County,"31,945.00",91.26,30.70335,-83.027601,Publix Super Market,30.3198949,-82.97163400000001,"1528 Ohio Avenue South, Live Oak",26.62472632000735
+650,Echols County,"31,945.00",91.26,30.70335,-83.027601,Publix Super Market at Baytree Village,30.8456768,-83.32284399999999,"1741 Gornto Road, Valdosta",20.11345043885373
+658,Forsyth County,"67,859.00",13.68,34.206598,-84.138697,H Mart Duluth,33.9696541,-84.1430816,"Shopping Center, 2550 Pleasant Hill Road bldg 300, Park Village, Duluth",16.333280498236746
+658,Forsyth County,"67,859.00",13.68,34.206598,-84.138697,Trader Joe's,33.9789052,-84.21997329999999,"5185 Peachtree Parkway Ste 101, Peachtree Corners",16.37113941305489
+658,Forsyth County,"67,859.00",13.68,34.206598,-84.138697,H Mart Doraville,33.9080556,-84.28805559999999,"6035 Peachtree Road bldg b, Doraville",22.289528471984916
+658,Forsyth County,"67,859.00",13.68,34.206598,-84.138697,Trader Joe's,33.9262448,-84.3780993,"6277 Roswell Road Northeast, Sandy Springs",23.70573255294179
+660,Fulton County,"95,683.00",42.17,33.758231,-84.391101,Publix Super Market at Piedmont,33.7703649,-84.3811655,"595 Piedmont Avenue Northeast, Atlanta",1.0131456216964634
+660,Fulton County,"95,683.00",42.17,33.758231,-84.391101,Foreign brothers auto,33.7489954,-84.3879824,Atlanta,0.661364449870101
+667,Gwinnett County,"46,886.00",50.3,33.966996,-83.99421,H Mart Duluth,33.9696541,-84.1430816,"Shopping Center, 2550 Pleasant Hill Road bldg 300, Park Village, Duluth",8.551140740221975
+667,Gwinnett County,"46,886.00",50.3,33.966996,-83.99421,Whole Foods Market,33.7752338,-84.3658288,"650 Ponce De Leon Avenue Northeast, Atlanta",25.122596428133857
+667,Gwinnett County,"46,886.00",50.3,33.966996,-83.99421,Trader Joe's,33.7796552,-84.36791029999999,"931 Monroe Drive Northeast, Atlanta",25.065647261967687
+667,Gwinnett County,"46,886.00",50.3,33.966996,-83.99421,Trader Joe's,33.9789052,-84.21997329999999,"5185 Peachtree Parkway Ste 101, Peachtree Corners",12.990056662076816
+683,Johnson County,"27,965.00",94.38,32.730663,-82.719275,Wadley IGA,32.86246939999999,-82.4024002,"62 Butts Street, Wadley",20.55803308036074
+692,Lowndes County,"41,117.00",43.76,30.84189,-83.27888,Publix Super Market at Baytree Village,30.8456768,-83.32284399999999,"1741 Gornto Road, Valdosta",2.6262131454671582
+699,Meriwether County,"39,121.00",88.02,33.029043,-84.713045,The Fresh Market,33.40927399999999,-84.56854899999999,"100 North Peachtree Parkway, Peachtree City",27.50799763434274
+699,Meriwether County,"39,121.00",88.02,33.029043,-84.713045,Piggly Wiggly,33.0322614,-85.0709333,"1861 Roanoke Road A 1, LaGrange",20.77624245101618
+699,Meriwether County,"39,121.00",88.02,33.029043,-84.713045,Piggly Wiggly,32.8551759,-84.6191231,"412 West Main Street, Manchester",13.165950612563588
+703,Montgomery County,"34,061.00",94.83,32.174174,-82.594652,Piggly Wiggly,31.8654879,-82.6006527,"32 South Tallahassee Street, Hazlehurst",21.27202625052084
+703,Montgomery County,"34,061.00",94.83,32.174174,-82.594652,Mount Vernon Grocery,32.1753593,-82.5943874,"304 South Railroad Avenue, Mount Vernon",0.08313065149307666
+750,Washington County,"39,151.00",85.62,32.983578,-82.811602,Piggly Wiggly,32.8832748,-83.3332842,"123 South Main Street, Gordon",31.094310348066276
+750,Washington County,"39,151.00",85.62,32.983578,-82.811602,Piggly Wiggly,33.0717281,-83.22557390000001,"731 South Wayne Street, Milledgeville",24.78735649213705
+757,Wilkes County,"42,093.00",94.17,33.746467,-82.740314,Ingles Markets,33.5807785,-83.1686046,"1480 East Broad Street, Greensboro",27.196124047061982
+757,Wilkes County,"42,093.00",94.17,33.746467,-82.740314,Terry's IGA,33.73614859999999,-82.7394473,"115 North Spring Street, Washington",0.7129037936892749

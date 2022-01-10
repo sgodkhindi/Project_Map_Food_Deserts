@@ -1,0 +1,14 @@
+County_ID,County_Name,County_Income,Poverty_Rate,County_Lat,County_Long,Store_Name,Store_Lat,Store_Long,Store_Address,Dist
+634,Coffee County,"35,507.00",87.34,31.508705,-82.850724,Family Dollar,31.30697759999999,-82.8493317,"652 North Main Street, Pearson",13.898341944339517
+650,Echols County,"31,945.00",91.26,30.70335,-83.027601,Family Dollar,30.8367512,-83.317776,"964 Saint Augustine Road, Valdosta",19.555092400464034
+683,Johnson County,"27,965.00",94.38,32.730663,-82.719275,Family Dollar,32.526701,-82.9141047,"1206 Telfair Street, Dublin",18.072143763719954
+683,Johnson County,"27,965.00",94.38,32.730663,-82.719275,Family Dollar,32.7321015,-82.7218584,"212 West Trilby Street, Wrightsville",0.18018588295591875
+683,Johnson County,"27,965.00",94.38,32.730663,-82.719275,Family Dollar,32.9786752,-82.8102396,"309 South Harris Street, Sandersville",17.891043190215118
+692,Lowndes County,"41,117.00",43.76,30.84189,-83.27888,Family Dollar,30.8367512,-83.317776,"964 Saint Augustine Road, Valdosta",2.3390335382455008
+692,Lowndes County,"41,117.00",43.76,30.84189,-83.27888,Family Dollar,30.6821537,-83.21642609999999,"1006 Lakes Boulevard, Lake Park",11.614312683117369
+692,Lowndes County,"41,117.00",43.76,30.84189,-83.27888,Family Dollar,30.8561498,-83.2802432,"1905 North Ashley Street, Valdosta",0.9856857037746283
+699,Meriwether County,"39,121.00",88.02,33.029043,-84.713045,Family Dollar,33.2782599,-85.0977607,"291 Court Square, Franklin",28.148082795998246
+703,Montgomery County,"34,061.00",94.83,32.174174,-82.594652,Family Dollar,32.21157050000001,-82.40163710000002,"1101h East 1st Street, Vidalia",11.598979328938455
+750,Washington County,"39,151.00",85.62,32.983578,-82.811602,Family Dollar,32.9786752,-82.8102396,"309 South Harris Street, Sandersville",0.34700743151382324
+750,Washington County,"39,151.00",85.62,32.983578,-82.811602,Family Dollar,32.7321015,-82.7218584,"212 West Trilby Street, Wrightsville",18.098576779020043
+757,Wilkes County,"42,093.00",94.17,33.746467,-82.740314,Family Dollar,33.7881229,-82.47667179999999,"192 Elm Street, Lincolnton",15.444764595477746
