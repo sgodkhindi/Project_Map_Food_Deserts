@@ -4,7 +4,7 @@
 ## Project Team (The GAP Team)
 1. Ellis Purwanto - Data Visualization and Graphs
 2. Marc Avoaka - Database Design
-3. Shailesh Godkhindi - Data Analysis, Web Programming and Mapping
+3. Shailesh Godkhindi - Data Analysis, Web Programming and Geo Mapping
 
 ## Key Deliverables
 ### Jupyter Notebooks & PowerPoint Presentation
@@ -63,7 +63,7 @@ The next step in the process was to use API calls to obtain GeoLocation for Groc
 ### Data Summarization for Analysis
 The next step was to get all the data summarized by county. This was done using Panda and Python Code. 
 
-This data was stored in the PostgeSQL database for analysis as well JSON files.
+This data was stored in the PostgeSQL database for analysis as well as JSON files.
 
 As can be seen from the data presented below the presence of Grocery Stores is adequate only in certain counties with higher income
 ![Final_Data Frame](Images/Final_County_DataFrame.PNG)
