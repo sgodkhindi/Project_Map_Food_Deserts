@@ -60,6 +60,8 @@ The next step in the process was to use API calls to obtain GeoLocation for Groc
 2. The locations that were pulled had to be within 6 miles of the County Latitude and Longitude.
 3. For Grocery Stores chosen had to be part of a chain as they have the infrastructure and the inventory to service a large population.
 
-### Data Summarizing for Analysis
-The next step was to get all the data summarized by county
+### Data Summarization for Analysis
+The next step was to get all the data summarized by county. This was done using Panda and Python Code
+
+As can be seen from the data presented below the presence of Grocery Stores is adequate only in certain counties with higher income
 ![Final_Data Frame](Images/Final_County_DataFrame.PNG)
