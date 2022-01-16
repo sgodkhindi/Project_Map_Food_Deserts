@@ -9,15 +9,32 @@ Group Project to Map Food Deserts in Georgia
 ## Food Deserts
 A Food Desert is an area that has limited access to affordable and nutritious food. Food deserts tend to be inhabited by low-income residents with reduced mobility; this makes them a less attractive market for large supermarket chains. Food deserts lack suppliers of fresh foods, such as meats, fruits, and vegetables. Instead, the available foods are often processed and high in sugar and fats, which are known contributors to the proliferation of obesity in the U.S.
 
+## Development Process
 ### Beginning the data-gathering process
-
 We found that the Percentage of Free or Reduced Lunches (Percent_FRL) at school is a strong indicator of poverty in an area: https://nces.ed.gov/blogs/nces/post/free-or-reduced-price-lunch-a-proxy-for-poverty
 
-Using this metric, we identified 90 schools across 7 counties of Georgia with Percent_FRL of >= 92%. We collected these school names, physical addresses and the their Percent_FRL in a CSV file.
+Using this metric and the Per Capita Income data from https://fred.stlouisfed.org/release/tables?eid=266512&rid=175, the team identified 15 counties in GA.
 
-### Approach
-1. Get the name and addresses of all the schools which have the >90% FRL (free-reduced lunch) (%FRL is used as an indicator of poverty).
-2. Find out the number of grocery stores within 5-10 miles of these schools (usually people live near the schools and higher percentage FRL means that the neighborhood is poor).
-3. Create a Heat Map these grocery stores.
-4. Find out any Fast Food joints / Dollar Stores within 5 miles of these locations. Usually in Food Deserts there is proliferation of these establishments selling processed foods.
-5. Create a Heat Map these Fast Food places / Dollar Stores.
+These 15 counties are as follows:
+1. Baldwin County
+2. Clayton County
+3. Cobb County
+4. Coffee County
+5. Colquitt County
+6. DeKalb County
+7. Echols County
+8. Forsyth County
+9. Fulton County
+10. Gwinnett County
+11. Johnson County
+12. Lowndes County
+13. Meriwether County
+14. Montgomery County
+15. Washington County
+16. Wilkes County
+
+### Data Analysis Approach
+Once these15 counties were identified the team took the following steps to get all the source data together:
+1. List all the 15 counties along with the - Per Capita Income and Percent_FRL
+2. Locate the Latitude and Longitude of the County Courthouse for each county. Usually the Courthouse is the centermost point in the county.
+3. 
