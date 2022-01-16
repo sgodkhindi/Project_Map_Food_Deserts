@@ -61,7 +61,9 @@ The next step in the process was to use API calls to obtain GeoLocation for Groc
 3. For Grocery Stores chosen had to be part of a chain as they have the infrastructure and the inventory to service a large population.
 
 ### Data Summarization for Analysis
-The next step was to get all the data summarized by county. This was done using Panda and Python Code
+The next step was to get all the data summarized by county. This was done using Panda and Python Code. 
+
+This data was stored in the PostgeSQL database for analysis as well JSON files.
 
 As can be seen from the data presented below the presence of Grocery Stores is adequate only in certain counties with higher income
 ![Final_Data Frame](Images/Final_County_DataFrame.PNG)
@@ -80,7 +82,7 @@ Finally the data from the data frames was saved in files, imported into a separa
 #### Percent FRL and Grocery Store Distribution
 ![Percent FRL Vs Grocery Store](Images/4FRLvsGrocery.png)
 
-## Heat Maps
+### Heat Maps
 The county data was then fed to the Google Maps and Heat Maps showing the distribution of Grocery Stores, Dollar Stores and Fast Food Locations was done.
 #### Grocery Store Heat Map
 ![Grocery Store Heat Map](Images/Grocery_Store_Heat_Map.png)
@@ -90,3 +92,25 @@ The county data was then fed to the Google Maps and Heat Maps showing the distri
 
 #### Fast Food Locations Heat Map
 ![Fast Food Heat Map](Images/Fast_Food_Heat_Map.png)
+
+### Web Development and Geo Mapping Using Leaflet
+### Web Development
+Using Flask, Javascript and HTML the location data for individual stores and fast food locations was displayed on the Web via an interactive map.
+[Web Application](Webpage/app.py)
+
+### Location and Geo Mapping using Leaflet
+The final step was to display these location using Leaflet and Javascript and the following layered maps were created
+#### Georgia Grocery Store Location Map
+![Georgia Grocery Store Location Map](Images/Georgia_Grocery_Store_Map.PNG)
+
+#### Georgia Dollar Store Location Map
+![Georgia Dollar Store Location Map](Images/Georgia_Dollar_Store_Map.PNG)
+
+#### Georgia Fast Food Restaurants Location Map
+![Georgia Fast Food Restaurants Location Map](Images/Georgia_FastFood_Map.PNG)
+
+## Conclusion
+After analyzing the data and visualizing it the team has arrived at the following conclusion:
+Areas with higher levels of poverty are more likely to become Food Deserts. Additionally, poorer countries not only have fewer Grocery stores, but they also have larger numbers of Dollar stores and Fast-Food places proportionate to their population.
+
+
