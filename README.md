@@ -10,6 +10,7 @@ Group Project to Map Food Deserts in Georgia
 A Food Desert is an area that has limited access to affordable and nutritious food. Food deserts tend to be inhabited by low-income residents with reduced mobility; this makes them a less attractive market for large supermarket chains. Food deserts lack suppliers of fresh foods, such as meats, fruits, and vegetables. Instead, the available foods are often processed and high in sugar and fats, which are known contributors to the proliferation of obesity in the U.S.
 
 ### Beginning the data-gathering process
+
 We found that the Percentage of Free or Reduced Lunches (Percent_FRL) at school is a strong indicator of poverty in an area: https://nces.ed.gov/blogs/nces/post/free-or-reduced-price-lunch-a-proxy-for-poverty
 
 Using this metric, we identified 90 schools across 7 counties of Georgia with Percent_FRL of >= 92%. We collected these school names, physical addresses and the their Percent_FRL in a CSV file.
