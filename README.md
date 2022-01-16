@@ -1,5 +1,11 @@
-# Project_Map_Food_Deserts
+# Project3 - Mapping Food Deserts
 Group Project to Map Food Deserts in Georgia
+
+## Project Team (The GAP Team)
+1. Ellis Purwanto - Data Visualization and Graphs
+2. Marc Avoaka - Database Design
+3. Shailesh Godkhindi - Data Analysis, Web Programming and Mapping
+
 ## Food Deserts
 A Food Desert is an area that has limited access to affordable and nutritious food. Food deserts tend to be inhabited by low-income residents with reduced mobility; this makes them a less attractive market for large supermarket chains. Food deserts lack suppliers of fresh foods, such as meats, fruits, and vegetables. Instead, the available foods are often processed and high in sugar and fats, which are known contributors to the proliferation of obesity in the U.S.
 
