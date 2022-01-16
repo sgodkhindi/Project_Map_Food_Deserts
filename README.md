@@ -68,7 +68,14 @@ As can be seen from the data presented below the presence of Grocery Stores is a
 
 ### Data Visualization and Graphs
 Finally the data from the data frames was saved in files, imported into a separate Jupyter Notebook and using Plotly, following graphs were created:
-### Population Vs Income
+### Population and Per-capita Income
 ![Population Vs Income](Images/1PopVsInc.png)
+
 ### Store Counts by County
 ![Store Counts by County](Images/2StoreCounts.png)
+
+### Percent FRL and Income Correlation
+![Percent FRL and Income](Images/3FRLvsInc.png)
+
+### Percent FRL and Grocery Store Distribution
+![Percent FRL Vs Grocery Store](Images/4FRLvsGrocery.png)
