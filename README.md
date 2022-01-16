@@ -1,5 +1,5 @@
 # Project3 - Mapping Food Deserts
-### Group Project to Map Food Deserts in Georgia -->
+### Group Project to Map Food Deserts in Georgia 
 
 ## Project Team (The GAP Team)
 1. Ellis Purwanto - Data Visualization and Graphs
@@ -46,8 +46,8 @@ These 15 counties are as follows:
 15. Washington County
 16. Wilkes County
 
-### Data Analysis Approach
+### Data Analysis Preparation
 Once these15 counties were identified the team took the following steps to get all the source data together:
 1. List all the 15 counties along with the - Per Capita Income and Percent_FRL
 2. Locate the Latitude and Longitude of the County Courthouse for each county. Usually the Courthouse is the centermost point in the county.
-3. 
+3. Create an input file with all this information.
