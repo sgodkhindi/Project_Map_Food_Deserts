@@ -65,3 +65,10 @@ The next step was to get all the data summarized by county. This was done using 
 
 As can be seen from the data presented below the presence of Grocery Stores is adequate only in certain counties with higher income
 ![Final_Data Frame](Images/Final_County_DataFrame.PNG)
+
+### Data Visualization and Graphs
+Finally the data from the data frames was saved in files, imported into a separate Jupyter Notebook and using Plotly, following graphs were created:
+### Population Vs Income
+![Population Vs Income](Images/1PopVsInc.png)
+### Store Counts by County
+![Store Counts by County](Images/2StoreCounts.png)
