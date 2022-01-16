@@ -68,14 +68,25 @@ As can be seen from the data presented below the presence of Grocery Stores is a
 
 ### Data Visualization and Graphs
 Finally the data from the data frames was saved in files, imported into a separate Jupyter Notebook and using Plotly, following graphs were created:
-### Population and Per-capita Income
+#### Population and Per-capita Income
 ![Population Vs Income](Images/1PopVsInc.png)
 
-### Store Counts by County
+#### Store Counts by County
 ![Store Counts by County](Images/2StoreCounts.png)
 
-### Percent FRL and Income Correlation
+#### Percent FRL and Income Correlation
 ![Percent FRL and Income](Images/3FRLvsInc.png)
 
-### Percent FRL and Grocery Store Distribution
+#### Percent FRL and Grocery Store Distribution
 ![Percent FRL Vs Grocery Store](Images/4FRLvsGrocery.png)
+
+## Heat Maps
+The county data was then fed to the Google Maps and Heat Maps showing the distribution of Grocery Stores, Dollar Stores and Fast Food Locations was done.
+#### Grocery Store Heat Map
+![Grocery Store Heat Map](Images/Grocery_Store_Heat_Map.png)
+
+#### Dollar Store Heat Map
+![Dollar Store Heat Map](Images/Dollar_Store_Heat_Map.png)
+
+#### Fast Food Locations Heat Map
+![Fast Food Heat Map](Images/Fast_Food_Heat_Map.png)
