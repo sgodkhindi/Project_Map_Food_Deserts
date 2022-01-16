@@ -7,16 +7,18 @@
 3. Shailesh Godkhindi - Data Analysis, Web Programming and Mapping
 
 ## Key Deliverables
-### Jupyter Notebooks
-- [County_Data_Analysis ](Food_Deserts_Data_County.ipynb)
-- [Data_Visualization & Graphs](ellisNotebooks/Plotly_Graphs.ipynb)
+### Jupyter Notebooks & PowerPoint Presentation
+- [County Data_Analysis ](Food_Deserts_Data_County.ipynb)
+- [Data Visualization & Graphs](ellisNotebooks/Plotly_Graphs.ipynb)
+- [PowerPoint Presentation](ellisCharts/Food_Deserts.pptx)
+
 
 ### Database Components
 - [Database_Diagram](SQL/Food_Deserts.png)
 - [Database Schema](SQL/Schema.SQL)
 - [Database Queries](SQL/queries.sql)
 
-### Web Application
+### Web Application + Leaflet
 - [Web Application](Webpage/app.py)
 
 ## Food Deserts
@@ -51,3 +53,13 @@ Once these15 counties were identified the team took the following steps to get a
 1. List all the 15 counties along with the - Per Capita Income and Percent_FRL
 2. Locate the Latitude and Longitude of the County Courthouse for each county. Usually the Courthouse is the centermost point in the county.
 3. Create an input file with all this information.
+
+### Getting GeoLocation Info using API
+The next step in the process was to use API calls to obtain GeoLocation for Grocery Stores, Dollar Stores and Fast Food Stores
+1. We decided use Foursquare Places API to get this info - https://developer.foursquare.com/reference/place-search
+2. The locations that were pulled had to be within 6 miles of the County Latitude and Longitude.
+3. For Grocery Stores chosen had to be part of a chain as they have the infrastructure and the inventory to service a large population.
+
+### Data Summarizing for Analysis
+The next step was to get all the data summarized by county
+![Final_Data Frame](Images/Final_County_DataFrame.PNG)
