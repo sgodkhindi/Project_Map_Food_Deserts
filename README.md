@@ -111,6 +111,6 @@ The final step was to display these location using Leaflet and Javascript and th
 
 ## Conclusion
 After analyzing the data and visualizing it the team has arrived at the following conclusion:
-Areas with higher levels of poverty are more likely to become Food Deserts. Additionally, poorer countries not only have fewer Grocery stores, but they also have larger numbers of Dollar stores and Fast-Food places proportionate to their population.
+Areas with higher levels of poverty are more likely to become Food Deserts. Additionally, poorer counties not only have fewer Grocery stores, but they also have larger numbers of Dollar stores and Fast-Food places proportionate to their population.
 
 
